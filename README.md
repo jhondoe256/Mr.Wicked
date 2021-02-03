@@ -4,7 +4,7 @@
 ## Mr.Wicked
 This repo contains code for a group project to transfer files correctly
 
-###The Basics
+### The Basics
 - Understand the use of GitHub
 - Create repositories
 - Work with Git and GitHub locally
