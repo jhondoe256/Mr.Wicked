@@ -9,4 +9,4 @@ This repo contains code for a group project to transfer files correctly
 - Create repositories
 - Work with Git and GitHub locally
 - Create and work with Issues
-- Create a siki and GiHub Page
+- Create a wiki and GiHub Page
