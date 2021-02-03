@@ -1,5 +1,5 @@
-# <a href='#'><img src='https://ezyinsights.com/wp-content/uploads/2019/01/egg-insta-most-popular-image.jpg' height='60' alt='Big ol Egg'/></a>
-Sample Repo on GitHub
+# <a href='#'><img src='https://ezyinsights.com/wp-content/uploads/2019/01/egg-insta-most-popular-image.jpg' height='60' alt='Big ol Egg'/>Sample Repo on GitHub
+</a>
 
 ## Mr.Wicked
 This repo contains code for a group project to transfer files correctly
