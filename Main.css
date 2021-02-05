@@ -2,3 +2,20 @@ body
 {
     background-color: gray;
 }
+
+.ProfileA
+{
+    position: relative;
+    margin-left: 40px;
+    border-radius: 20px 20px;
+   
+    background-color:rgb(71, 71, 71);
+    width:275px;
+    height: 500px;
+}
+
+.ProfileA h3
+{
+    margin-left: 30px;
+    
+}
