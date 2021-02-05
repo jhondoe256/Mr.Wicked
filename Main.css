@@ -1,21 +1,110 @@
 body
 {
     background-color: gray;
+    background-image: url(./Pics/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Luckiest Guy', cursive;
+    color:white;
+    /* outline: black 20px; */
+    text-shadow: black 1px 0 10px;
+}
+
+.TeamMemberProfileA
+{
+    margin-left: 400px;
 }
 
 .ProfileA
 {
-    position: relative;
+    position: absolute;
+    border-style: solid;
     margin-left: 40px;
     border-radius: 20px 20px;
-   
     background-color:rgb(71, 71, 71);
     width:275px;
     height: 500px;
 }
 
+.ProfileA_Attributes
+{
+    position: absolute;
+    height: 40px;
+    margin-top: 280px;
+    margin-left: 10px;
+}
+
 .ProfileA h3
 {
     margin-left: 30px;
+}
+
+.ProfileB
+{
+    position: absolute;
+    margin-left: 400px;
+    border-radius: 20px 20px;
+    border-style: solid;
+    border-color: limegreen;
     
+    
+    background-color:rgb(94, 94, 94);
+    width:275px;
+    height: 500px;
+}
+
+.ProfileB h3
+{
+    margin-left: 30px;
+}
+
+.ProfileB_Attributes
+{
+    position: absolute;
+    height: 40px;
+    margin-top: 250px;
+    margin-left: 10px;
+}
+
+.ProfileC
+{
+    position: absolute;
+    margin-left: 780px;
+    border-style: solid;
+    border-radius: 20px 20px;
+    background-color:rgb(94, 94, 94);
+    width:275px;
+    height: 500px;
+}
+
+.PeachPic
+{
+    position: absolute;
+    margin-bottom: 2000px;
+    margin-left: 10px;
+    border: 20px 20px solid black;
+    border-radius: 20px 20px;
+    background-color: white;
+}
+
+
+.ProfileC h3
+{
+    margin-left: 30px;
+}
+
+.ProfileC_Attributes
+{
+    position: absolute;
+    height: 40px;
+    margin-top: 240px;
+    margin-left: 10px;
+    z-index: 1;
+}
+
+.ProfileC img
+{
+    position: absolute;
+    margin-bottom: 30px;
+   
 }
